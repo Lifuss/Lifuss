@@ -3,8 +3,8 @@
 
 ## I'm a Fullstack web developer  
 
-- 👨‍💻 I’m currently working on mobile development technologies like react-native, expo etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on backend technologies and microservices architecture
+- 📚 I’m currently learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play volleyball 🏐 and videogames 🎮.
 
